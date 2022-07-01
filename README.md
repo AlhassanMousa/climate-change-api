@@ -1,4 +1,4 @@
 # climate-change-api
 
 
-you can find the API published on rapidapi.com here on https://rapidapi.com/AlhassanMousa/api/climate-api1
+you can use and test the API published on RapidAPI Hub here on https://rapidapi.com/AlhassanMousa/api/climate-api1 
